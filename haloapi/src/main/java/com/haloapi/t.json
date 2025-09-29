@@ -1,0 +1,66 @@
+{
+    "Start": 0,
+    "Results": [
+        {
+            "GameVariant": null,
+            "HopperId": null,
+            "GameBaseVariantId": "00000003-0000-0010-8000-00aa00389b71",
+            "MatchDuration": "PT30M15.319002S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2020-07-04T00:00:00Z"
+            },
+            "IsTeamGame": false,
+            "MatchCompletedDateFidelity": 1,
+            "MapVariant": null,
+            "Links": {
+                "StatsMatchDetails": {
+                    "Path": "h5\/campaign\/matches\/a06408cb-eb3f-4419-b5bd-0d0a4043b70f",
+                    "ClearanceAware": false,
+                    "AuthorityId": "spartanstats",
+                    "QueryString": null,
+                    "AcknowledgementTypeId": 0,
+                    "RetryPolicyId": "exponentialretry",
+                    "AuthenticationLifetimeExtensionSupported": false,
+                    "TopicName": ""
+                }
+            },
+            "Teams": [],
+            "Id": {
+                "GameMode": 2,
+                "MatchId": "a06408cb-eb3f-4419-b5bd-0d0a4043b70f"
+            },
+            "SeasonId": "",
+            "MapId": "37c717b8-7ae8-4be4-aaa2-945e083bcf3e",
+            "Players": [
+                {
+                    "PostMatchRatings": null,
+                    "Player": {
+                        "Xuid": null,
+                        "Gamertag": "JehSea548"
+                    },
+                    "TotalKills": 25,
+                    "TotalAssists": 0,
+                    "Rank": 1,
+                    "PreMatchRatings": null,
+                    "TeamId": 9,
+                    "TotalDeaths": 0,
+                    "Result": 3
+                }
+            ]
+        }
+    ],
+    "Links": {
+        "Self": {
+            "Path": "\/h5\/players\/Jeh%20Sea%20548\/matches",
+            "ClearanceAware": false,
+            "AuthorityId": "spartanstats",
+            "QueryString": "?include-xuids=false&view=full&include-ratings=false&count=1",
+            "AcknowledgementTypeId": 0,
+            "RetryPolicyId": "",
+            "AuthenticationLifetimeExtensionSupported": false,
+            "TopicName": ""
+        }
+    },
+    "Count": 1,
+    "ResultCount": 1
+}
